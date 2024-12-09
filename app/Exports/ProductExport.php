@@ -27,5 +27,3 @@ class ProductExport implements FromCollection, WithHeadings
         return ['Name', 'Price', 'Created At'];
     }
 }
-
-}
